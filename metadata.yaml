@@ -1,0 +1,32 @@
+_repo: The-National-Being--Some-Thoughts-on-an-Irish-Polity_8104
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Russell, George William
+    aliases:
+    - A.E.
+    - AE
+    - Russell, G. W. (George William)
+    - E., A.
+    birthdate: 1867
+    deathdate: 1935
+    gutenberg_agent_id: '1869'
+    url: http://www.gutenberg.org/2009/agents/1869
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Russell
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8104'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Politics and government'
+- !lcsh 'Ireland -- Economic conditions'
+- !lcsh 'Cooperation'
+- !lcc 'DA'
+- GITenberg
+title: 'The National Being: Some Thoughts on an Irish Polity'
+url: http://www.gutenberg.org/ebooks/8104
